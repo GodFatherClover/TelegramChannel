@@ -6,21 +6,21 @@
     <tr>
       <td align="center">
         <a href="https://t.me/googlezh1">
-          <img src="https://cdn1.telegram-cdn.org/file/YDtJCYa92iBCDqe0BP4Mc-WKiJpUmzIHqhue8hQz17o-CHj5bo16aca723gD7zljopGdFTrkwgfYhF6Q-ytPZthDl8sgPufCd-mKQYKdVWTKMOnX9BUxamDE5HizWOwpOLornQck81lWiutgkOg-j01kw8DlPmhjBjdYxlaxAPLW6JDYne4deAWU8ZAdo1Ea0RbzeOcurAdbDwO5DnMiMU-KDIFajBLkECa6KqXur8Skx3RfApGAndgpHVQSawn284SjCMaO3DicFPO-XTu2Jy9hnv3i1nknSJ7_QiraSUbjGvoS69LioK8Wlu07iQNOsdQ65a9MvnZnjccpd0XmXw.jpg" width="350px;" height="180px;" alt="1"/>
+          <img src="./img/google_icon.png" width="350px;" height="180px;" alt="1"/>
         </a>
         <br />
         <a href="https://t.me/googlezh1">中文世界Google</a>
       </td>
       <td align="center">
         <a href="https://t.me/zhSearcher">
-          <img src="https://cdn1.telegram-cdn.org/file/EnG1BeP7VTrKr1C1DeuqNNW3d-HlGnjjGnD6tmk8F1z-GP0r3BE5PZnZyyI8_LNWx_QFnhQ7iltEb4ANhwnksZu0hnLJcpoTV9-kOiDK53AyEhlObMaH9cbp8UcNgPvGh6nTnNb4BSSfKyGKGmsdGeXnD-9SxB7KqSq5_qp8c-AD_j5ANhYExhcjKSYCwr7sE282gFwteG3FQe0v3hYvlw6AW3GwfF9vTNBe-3KKEF-3cvpvwZtGjrgnPOq7_RpUwztvrhrPxKYvkVXzOt_F5lTx301K2iWi3NSufXaRIzxRUYDdh-IPUvriUFF4QHoj7OWq1WM9ZbjqRPVAsrvjNQ.jpg"  width="350px;" height="180px;"alt="2"/>
+          <img src="./img/search_zh.png"  width="350px;" height="180px;"alt="2"/>
         </a>
         <br />
         <a href="https://t.me/zhSearcher">中文导航</a>
       </td>
        <td align="center">
         <a href="https://t.me/tgcnx">
-          <img src="https://cdn5.telegram-cdn.org/file/uBU5bcH7P2S4U9ctNjUC_0N_3tFC_mClKEECBWSlYF7_2T0an3-sE-eK9tsxphuIei_8HLOb8pW2JtA3Qm12IkbsXf-Xm7KrDBHBQRiQJv5CBVClCbGuDrGtKDNFSWFqyZVPlQmnMi8Rp1K2IxGeKySCHFvMLVWrm_qxhPomi5RpRmdZJ1Yla1lSWxWOrM6DiPIdvR2s8AG7mgGTkFoIeiWpQAeaoCx8RrLUznm5bnL4FQdx7fYJLw3vVFrTUj6vNXR0mqvt_yKelkAMf-BBn-Eyh0fTYpDU1eMhVf6pUNrMGBCEHBt-8vMjoJeSCqVJwp0lAs5weIKPBhf3oBRfEg.jpg"  width="350px;" height="180px;"alt="3"/>
+          <img src="./img/zhongwenshequ.jpg"  width="350px;" height="180px;"alt="3"/>
         </a>
         <br />
         <a href="https://t.me/tgcnx">Telegram 中文社群 🅥</a>
@@ -63,11 +63,11 @@ Telegram 官网 : [https://telegram.org/](https://telegram.org/)
 
 #### 群组
 
-**Telegram 中文频道** : [https://t.me/tgcnz](https://t.me/tgcnz)
-**Telegram 十万人群** : [https://t.me/tgcnx](https://t.me/tgcnx)
-**Telegram 中文圈** : [https://t.me/tgzhcn](https://t.me/tgzhcn)
-**新闻派** : [https://t.me/nnpai](https://t.me/nnpai)
-**Telegram Premium 用户群** : [https://t.me/prem_user](https://t.me/prem_user)
+**Telegram 中文频道** : [https://t.me/tgcnz](https://t.me/tgcnz)  
+**Telegram 十万人群** : [https://t.me/tgcnx](https://t.me/tgcnx)  
+**Telegram 中文圈** : [https://t.me/tgzhcn](https://t.me/tgzhcn)  
+**新闻派** : [https://t.me/nnpai](https://t.me/nnpai)  
+**Telegram Premium 用户群** : [https://t.me/prem_user](https://t.me/prem_user)  
 
 **翻墙**
 Surge Pro：https://t.me/SurgePro
