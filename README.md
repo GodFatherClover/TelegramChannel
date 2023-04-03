@@ -1632,7 +1632,7 @@ PUSH科技快讯：https://t.me/Pushings
 逆风社：https://t.me/nifengpress  
 新纪元 新闻中心：https://t.me/xinjiyuan9  
 长安街日报：https://t.me/thecaajournal  
-噫~这世界：https://t.me/yizheshijie  
+噫这世界：https://t.me/yizheshijie  
 羊毛收割机 • 好物：https://t.me/ZHwool  
 羊王🐑频道：https://t.me/yangwangpindao  
 吾爱资源 薅羊毛·资讯中心：https://t.me/Pojieapp  
