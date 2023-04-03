@@ -6,24 +6,24 @@
     <tr>
       <td align="center">
         <a href="https://t.me/googlezh1">
-          <img src="./img/google_icon.png" width="350" alt="1"/>
+          <img src="./img/google_icon.png" width="345px;" />
         </a>
         <br />
-        <a href="https://t.me/googlezh1">中文世界Google</a>
+        <a href="https://t.me/googlezh1">中文搜索</a>
       </td>
       <td align="center">
         <a href="https://t.me/zhSearcher">
-          <img src="./img/search_zh.png"  width="350" alt="2"/>
+          <img src="./img/search_zh.png"  width="345px;" />
         </a>
         <br />
         <a href="https://t.me/zhSearcher">中文导航</a>
       </td>
        <td align="center">
         <a href="https://t.me/tgcnx">
-          <img src="./img/zhongwenshequ.png"  width="350" alt="3"/>
+          <img src="./img/zhongwenshequ.png" width="345px;" />
         </a>
         <br />
-        <a href="https://t.me/tgcnx">Telegram 中文社群 🅥</a>
+        <a href="https://t.me/tgcnx">中文社群</a>
       </td>
    </tr>
 
