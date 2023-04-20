@@ -63,14 +63,23 @@ Telegram 官网 : [https://telegram.org/](https://telegram.org/)
 | <img  src="./img/搜索AV.png" alt="图片" width="50">           | **搜片神器**       | https://t.me/quanqiusouer   |  
 | <img  src="./img/联盟搜索.png" alt="图片" width="50">           | **电报联盟**       | https://t.me/quanwangsouer  |  
 | <img  src="./img/sexy_icon.jpg" alt="图片" width="50">      | **全国资源**       | https://t.me/baipiaojianzhi |  
+| <img  src="./img/mojie_icon.png" alt="图片" width="50">      | **戴上魔戒 你将拥有力量 魔戒VPN 一元VPN**       | https://t.me/zhizunmojie |  
   
-#### 群组  
-  
-**Telegram 中文频道** : [https://t.me/tgcnz](https://t.me/tgcnz)    
-**Telegram 十万人群** : [https://t.me/tgcnx](https://t.me/tgcnx)    
-**Telegram 中文圈** : [https://t.me/tgzhcn](https://t.me/tgzhcn)    
-**新闻派** : [https://t.me/nnpai](https://t.me/nnpai)    
-**Telegram Premium 用户群** : [https://t.me/prem_user](https://t.me/prem_user)    
+#### 地区群组  
+
+**广州** : [https://t.me/gtguangzhou](https://t.me/gtguangzhou)   
+**深圳** : [https://t.me/gtshenzhen](https://t.me/gtshenzhen)  
+**佛山** : [https://t.me/gtfoshan](https://t.me/gtfoshan)  
+**北京** : [https://t.me/gtbeijing](https://t.me/gtbeijing)  
+**上海** : [https://t.me/gtshanghai](https://t.me/gtshanghai)  
+**武汉** : [https://t.me/gtwuhan](https://t.me/gtwuhan)  
+**长沙** : [https://t.me/gtchangsha](https://t.me/gtchangsha)  
+**成都** : [https://t.me/gtchengdu](https://t.me/gtchengdu)  
+**杭州** : [https://t.me/gthangzhou](https://t.me/gthangzhou)  
+**厦门** : [https://t.me/gtxiamen](https://t.me/gtxiamen)  
+**香港** : [https://t.me/gtxianggang](https://t.me/gtxianggang)  
+**台北** : [https://t.me/gttaibei](https://t.me/gttaibei)  
+ 
   
 **翻墙**    
 Surge Pro：https://t.me/SurgePro    
@@ -954,29 +963,7 @@ KeralaGram：https://t.me/keralagram
 64Gram：https://t.me/tg_x64  
 telegram.Bot：https://t.me/pythontelegrambotgroup  
 iMe Messenger：https://t.me/ime_en  
-**地区群**  
-上海吃喝玩乐群：https://t.me/shang_hai  
-深圳：https://t.me/shenzhenbot?start=join  
-深圳：https://t.me/shenzhentg  
-北京：https://t.me/beijingz  
-上海：https://t.me/shanghai_tg  
-广州：https://t.me/GuangzhouIT  
-四川：https://t.me/civhuanglaoxiao  
-川渝：https://t.me/chongqing_sichuang  
-西安：https://t.me/XianCity  
-南宁：https://t.me/NanNingTG  
-滕州：https://t.me/tengzhou  
-徐州：https://t.me/tgdxz  
-烟台：https://t.me/yantaiinfo  
-湖南：https://t.me/hunantg  
-济南：https://t.me/jinan_tg  
-郑州：https://t.me/zhengzhoutg  
-武汉：https://t.me/joinchat/AAAAAEPsBibY4oIaHgjIwg  
-西安：https://t.me/joinchat/FY1SJkRF6ubEQzU-3Mq3cw  
-温州：https://t.me/joinchat/AAAAAApGjPVlDbXwYSj1IA  
-宁波：https://t.me/joinchat/IDzvnxAU9yCEh6vx4RQrPg  
-河南郑州：https://t.me/hnzzs  
-河南周口：https://t.me/zhoukou  
+
 **新冠肺炎**  
 nCoV 主群（疫区疫情新闻/互助）：https://t.me/joinchat/OElQrFZiBp5If1A90UCnsg  
 nCoV 武汉封城自由讨论区：https://t.me/joinchat/OElQrFKWIz_B1qtkNwE7qA#nCoV   
