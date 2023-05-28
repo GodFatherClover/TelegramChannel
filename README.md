@@ -15,11 +15,11 @@
         <a href="https://t.me/googlezh1">中文搜索</a>  
       </td>  
       <td align="center">  
-        <a href="https://t.me/zhSearcher">  
-          <img src="./img/search_zh.png"  width="345px;" />  
+        <a href="https://t.me/zhizunmojie">  
+          <img src="./img/mojie_icon.png"  width="345px;" />  
         </a>  
         <br />  
-        <a href="https://t.me/zhSearcher">中文导航</a>  
+        <a href="https://t.me/zhizunmojie">带上魔戒</a>  
       </td>  
        <td align="center">  
         <a href="https://t.me/tgcnx">  
@@ -50,7 +50,6 @@ Telegram 官网 : [https://telegram.org/](https://telegram.org/)
 | 图标                                                        | 名称             | 链接                          |  
 |:---------------------------------------------------------:|:--------------:| --------------------------- |  
 | <img  src="./img/google_icon.png" alt="图片" width="50">    | **中文世界Google** | https://t.me/googlezh1      |  
-| <img  src="./img/search_zh.png" alt="图片" width="50">      | **频道搜索导航**     | https://t.me/zhSearcher     |  
 | <img  src="./img/zhongwenshequ.png" alt="图片" width="50">  | **中文社区**       | https://t.me/tgcnx          |  
 | <img  src="./img/search_logo_05.png" alt="图片" width="50"> | **hao123搜索**   | https://t.me/hao123suo      |  
 | <img  src="./img/hao联盟.png" alt="图片" width="50">          | **Hao联盟资源**    | https://t.me/goSearcher     |  
