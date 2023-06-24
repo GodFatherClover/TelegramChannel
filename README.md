@@ -12,21 +12,21 @@
           <img src="./img/search_logo_05.png" width="345px;" />  
         </a>  
         <br />  
-        <a href="https://t.me/hao123suo">好好搜索</a>  
+        <a href="https://t.me/hao123suo">全网资源</a>  
       </td>  
       <td align="center">  
         <a href="https://t.me/zhizunmojie">  
           <img src="./img/mojie_icon.png"  width="345px;" />  
         </a>  
         <br />  
-        <a href="https://t.me/zhizunmojie">带上魔戒</a>  
+        <a href="https://t.me/zhizunmojie">魔法魔戒</a>  
       </td>  
        <td align="center">  
         <a href="https://t.me/baipiaojianzhi">  
           <img src="./img/sexy_icon.jpg" width="345px;" />  
         </a>  
         <br />  
-        <a href="https://t.me/baipiaojianzhi">一二资源</a>  
+        <a href="https://t.me/baipiaojianzhi">妹妹专属</a>  
       </td>  
    </tr>  
   
